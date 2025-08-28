@@ -1,3 +1,6 @@
+_Source: Grok 4_\
+_2025-08-28_
+
 Based on official documentation from AMD and ASUS (a major AMD motherboard partner), AMD Extended Profiles for Overclocking (EXPO) is a technology designed to simplify DDR5 memory overclocking on compatible AMD platforms, such as Ryzen processors on Socket AM5. It provides user-friendly, pre-optimized memory profiles for higher frequencies, lower latencies, and improved performance in gaming and other workloads. EXPO is implemented via BIOS settings, typically under the Ai Tweaker or overclocking menu, and is compatible with validated DDR5 memory kits listed in AMD's Ryzen-compatible memory list (which includes partners like Kingston, Corsair, and G.SKILL).
 
 EXPO profiles are not uniformly detailed across all documentation as distinct "I" and "II" variants by AMD itself; the core technology focuses on transparent, verifiable overclocking with detailed testing documentation to ensure hardware compatibility. However, ASUS BIOS manuals explicitly describe EXPO I and EXPO II as options within the Ai Overclock Tuner setting, highlighting implementation differences for memory optimization.
